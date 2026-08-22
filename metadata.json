@@ -1,0 +1,8 @@
+{
+  "name": "Layka's 21st Birthday",
+  "description": "A single-page birthday website for Layka, created by Shoaib.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

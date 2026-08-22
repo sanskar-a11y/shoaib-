@@ -1042,7 +1042,7 @@ export default function BirthdayPage() {
 
             <div className="mt-12 pt-8 text-right">
               <span className="text-xs not-italic uppercase tracking-widest font-bold text-[var(--text-main)]">
-                — Shobaib
+                — Shoaib
               </span>
             </div>
           </div>
